@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Next.js-15.1.7-black">
   <img src="https://img.shields.io/badge/React-19.0.0-blue">
   <img src="https://img.shields.io/badge/TypeScript-5-blue">
-  <img src="https://img.shields.io/badge/TailwindCSS-4.x-teal">
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4-teal">
   <img src="https://img.shields.io/badge/Jotai-state--mgmt-green">
   <img src="https://img.shields.io/badge/Rsbuild-build-lightgrey">
 </p>
