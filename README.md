@@ -75,14 +75,6 @@
 
 </details>
 
-<details>
-<summary>📌 Branch Naming</summary>
-
-- 기능 개발: `feature/{이슈번호}-{기능명}`
-- 버그 수정: `fix/{이슈번호}-{버그설명}`
-
-</details>
-
 <br>
 
 ## Deployment (예정)
