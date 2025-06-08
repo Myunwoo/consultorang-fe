@@ -19,9 +19,7 @@ export default function Header() {
           />
         </Link>
 
-        {/* 필요 시 메뉴 or 토글 자리 */}
         <div className="hidden md:flex items-center gap-4 text-sm text-gray-600 dark:text-gray-300">
-          {/* 메뉴 예시: 추후 필요 시 추가 */}
           {/* <Link href="/pricing">가격 계산기</Link> */}
         </div>
       </div>

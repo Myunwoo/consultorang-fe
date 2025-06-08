@@ -34,7 +34,6 @@ export default function CalculatorTabs() {
             <span className="ml-1 text-xs align-middle">ⓘ</span>
           </button>
 
-          {/* 툴팁 플로팅 */}
           <div className="absolute z-10 w-64 p-3 text-xs text-gray-700 bg-white border rounded shadow-lg hidden group-hover:block top-full left-1/2 -translate-x-1/2 mt-2">
             <p className="font-semibold mb-1">💡 {tab.label}</p>
             <p>{methodTooltips[tab.value]}</p>
