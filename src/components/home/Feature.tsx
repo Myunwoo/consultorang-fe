@@ -12,7 +12,7 @@ export default function Feature() {
 
   const afterItems = [
     '원가 + 경쟁가 + AI 리뷰 분석 기반 가격',
-    '자동 계산 + PDF 보고서 저장',
+    '자동 계산',
     '업계 평균과 비교',
     '리뷰 키워드 요약 + 전략 가이드 제안',
   ]
