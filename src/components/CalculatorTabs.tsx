@@ -23,6 +23,7 @@ export default function CalculatorTabs() {
       {tabs.map((tab) => (
         <div key={tab.value} className="relative group">
           <button
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
             onClick={() => setMethod(tab.value as any)}
             className={`px-4 py-2 rounded-full border font-medium transition ${
               method === tab.value
