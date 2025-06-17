@@ -5,7 +5,7 @@ pipeline {
     APP_NAME = "consultaurant-frontend"
     IMAGE_NAME = "consultaurant/frontend"
     HOST_PORT = "3000"
-    CONTAINER_PORT = "80"
+    CONTAINER_PORT = "3000"
   }
 
   stages {
